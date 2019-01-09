@@ -1,0 +1,180 @@
+commit 9f27e446415a03a6cca5f2bf279c9f350254e4be
+Author: Courtney <cking61@jhu.edu>
+Date:   Sun Jul 1 16:15:02 2018 -0400
+
+    updated README
+
+commit 82adae799e7a1aeba57c75042054ed6b6536f6fe
+Author: Elizabeth <emathew4@jhu.edu>
+Date:   Sun Jul 1 16:08:45 2018 -0400
+
+    updated readme
+
+commit cb25a4f7649b8391cf87651fb0b8f36f79fa80bf
+Author: Courtney <cking61@jhu.edu>
+Date:   Sun Jul 1 15:57:47 2018 -0400
+
+    Still debugging
+
+commit dc62ec993c79ec9dbbcd816e489657dfe88381d5
+Author: Elizabeth <emathew4@jhu.edu>
+Date:   Sun Jul 1 15:54:19 2018 -0400
+
+    board update
+
+commit 995dd6f2abe2f1a6a51ccc4dec2213fdd80bfb8e
+Author: Courtney <cking61@jhu.edu>
+Date:   Sun Jul 1 15:30:12 2018 -0400
+
+    Test
+
+commit 92f7c15509d170fea67298ef87fe92d29303a1a7
+Author: Courtney <cking61@jhu.edu>
+Date:   Sun Jul 1 15:21:50 2018 -0400
+
+    debugging chess.cpp
+
+commit 18b6c015b68089fa55bb0c87a6dcc24110db5ce2
+Author: Courtney <cking61@jhu.edu>
+Date:   Sun Jul 1 14:37:09 2018 -0400
+
+    Edit check
+
+commit 8178e7b537810edfe4e660782f8d5703629cf53b
+Author: Elizabeth <emathew4@jhu.edu>
+Date:   Sun Jul 1 14:29:22 2018 -0400
+
+    change in Board
+
+commit 01e606848809843d610efcfe95180eace7412cd4
+Author: Elizabeth <emathew4@jhu.edu>
+Date:   Sun Jul 1 13:46:30 2018 -0400
+
+    changed make move func
+
+commit b70b9b61e854c3eeb5ef5f12c430be4d15797324
+Author: Elizabeth <emathew4@jhu.edu>
+Date:   Sun Jul 1 12:11:41 2018 -0400
+
+    changed first function
+
+commit c5ba293608483b5ee2c62d56c94f582b9a133721
+Author: Elizabeth <emathew4@jhu.edu>
+Date:   Sun Jul 1 00:13:55 2018 -0400
+
+    editing Chess.cpp
+
+commit 61737674dcaec83462446b72d9d84998918538be
+Author: Cortland Morse <cortlandmorse@gmail.com>
+Date:   Fri Jun 29 23:16:43 2018 -0400
+
+    removed some profane debug messages I accidentally left
+
+commit c5db51a4bb5696ada50b4736188c59c983dbce4e
+Author: Cortland Morse <cortlandmorse@gmail.com>
+Date:   Fri Jun 29 23:08:44 2018 -0400
+
+    fixed check so now moving pieaces checks for it
+
+commit ba2394bdea7ee5b6c726e0fc13512c33ae7f97f5
+Author: Cortland Morse <cortlandmorse@gmail.com>
+Date:   Fri Jun 29 21:58:48 2018 -0400
+
+    fixed loading functionality so it remembers whose turn
+
+commit 9364fadb2aa9251b96644114547e55a9ea1d6e0e
+Author: Cortland Morse <cortlandmorse@gmail.com>
+Date:   Fri Jun 29 20:59:44 2018 -0400
+
+    added check so one color can't move forever
+
+commit 7c586aca7a746bf5b09ab8d493f8f8c56b30f0c1
+Author: Cortland Morse <cortlandmorse@gmail.com>
+Date:   Fri Jun 29 20:47:12 2018 -0400
+
+    ACTUALLY implemented capitilization insensitivity and fixed a segfault
+
+commit 9e2d526f5a7f716a54d2bb7ffc69445a50c2167d
+Author: Cortland Morse <cortlandmorse@gmail.com>
+Date:   Fri Jun 29 20:14:18 2018 -0400
+
+    added lowercase move functionality
+
+commit b59d0299d687353dcaaf6b0f6fb3f9767ec7e2cb
+Author: Cortland Morse <cortlandmorse@gmail.com>
+Date:   Fri Jun 29 19:21:24 2018 -0400
+
+    added class Chess >> overload functionality
+
+commit 8fa0118e9271aefdd1a6e0c452d9f7cefc51f6b2
+Author: Courtney <cking61@jhu.edu>
+Date:   Thu Jun 28 18:32:11 2018 -0400
+
+    Working through minor bugs
+
+commit 626a85303832b5414f48f735cb9c51ec17a37c07
+Author: Courtney <cking61@jhu.edu>
+Date:   Thu Jun 28 18:09:20 2018 -0400
+
+    Started Chess functions
+
+commit 46d51f84331b8f7f327d19f4d00f338b61d83812
+Author: Courtney <cking61@jhu.edu>
+Date:   Thu Jun 28 13:59:52 2018 -0400
+
+    Edited README Todo list
+
+commit c85981d46011a8a02dea848958c3e6a1995c9d09
+Author: Courtney <cking61@jhu.edu>
+Date:   Thu Jun 28 13:58:50 2018 -0400
+
+    Editing functions in Board.cpp
+
+commit 695b32acc98b1d72dfe25c637abfde50aac7eee8
+Author: Courtney <cking61@jhu.edu>
+Date:   Thu Jun 28 13:50:55 2018 -0400
+
+    Continuing editing function files
+
+commit d46334418d581690aa5038ab55d2429072f8d041
+Author: Courtney <cking61@jhu.edu>
+Date:   Thu Jun 28 10:33:45 2018 -0400
+
+    Editing piece files and starting member functions
+
+commit 7a8f79ab02dd7a883be6f904fdf35ea6d5bd60a9
+Author: Courtney <cking61@jhu.edu>
+Date:   Wed Jun 27 20:13:21 2018 -0400
+
+    Started more piece files
+
+commit ba57d94d1cc7950509017fdc40b3fef1d801fbb1
+Author: Courtney <cking61@jhu.edu>
+Date:   Wed Jun 27 17:29:42 2018 -0400
+
+    Started altering piece files
+
+commit 08e7e7fa6a31cb4f98e46473f307d4941b43122d
+Merge: 54a2474 7f98352
+Author: Courtney <cking61@jhu.edu>
+Date:   Wed Jun 27 14:37:33 2018 -0400
+
+    Merge remote-tracking branch 'refs/remotes/origin/master'
+
+commit 7f983524f7d1b236e7398dbd6d25a4756e7b1180
+Author: Courtney King <cking61@jhu.edu>
+Date:   Wed Jun 27 18:35:25 2018 +0000
+
+    README edited online with Bitbucket
+
+commit 54a2474ea634250b0a1e9b08e9b9dfd6ea39a88f
+Author: Courtney <cking61@jhu.edu>
+Date:   Wed Jun 27 14:33:51 2018 -0400
+
+    Added given files to private repo
+
+commit d082360824deea693a94879c9813a4b2916154ef
+Author: Courtney King <cking61@jhu.edu>
+Date:   Fri Jun 22 19:15:14 2018 +0000
+
+    README.md created online with Bitbucket

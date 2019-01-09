@@ -1,0 +1,12 @@
+TEAM:
+Courtney King and Elizabeth Mathew and Cortland Morse
+cking61, emathew4, cmorse5
+
+DESIGN:
+In terms of design, we tried to keep everything as simple as possible, while stille executing the proper goals. We added respective copy constructors and destructors to our board and chess classes to allocate memory in member functions without making changes or shallow copies and avoid memory leaks throughout the process. We also added a few operator overloads in addition to the ones provided to overcome debugging issues along the process of execution.
+
+COMPLETENESS: 
+We created all the functions for the final project in their respective files and member classes.
+We successfully created the proper board and have accounted for all possible moves of the chess pieces. And we are able to load the textfiles and have them properly show the layout.
+However, we reached a problem with our check and mate functions because they do not ouput the status from main as we want them to.
+However, we are still able to successfully play the chess game.
